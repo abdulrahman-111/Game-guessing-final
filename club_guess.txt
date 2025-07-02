@@ -1,0 +1,87 @@
+Is this a UEFA club?
+Is this club in the top 5 leagues?
+Is this a Premier League club?
+Is this one of the top 6 clubs?
+is this clun in london?
+Is it known for Gunners?
+Arsenal
+-1
+-1
+IS it knwon for Chickens ?
+Spurs
+-1
+-1
+Chelsea
+-1
+-1
+Is it the most successful club in England ?
+Liverpool
+-1
+-1
+IS their kit red?
+MAN unsited
+-1
+-1
+MAN city
+-1
+-1
+Newcastle United
+-1
+-1
+Is this a La Liga club?
+Is it the most successful club in world? 
+Real-Madrid
+-1
+-1
+Barcelona
+-1
+-1
+Bayern Munich
+-1
+-1
+Is this a Portuguese club?
+Has this club ever won the UEFA Chamions League?
+Porto
+-1
+-1
+Sporting CP
+-1
+-1
+Is this a Dutch club?
+Ajax Amsterdam
+-1
+-1
+Galatasaray
+-1
+-1
+Is this an Arab club?
+Is this an Egyptian club?
+Is this club known for the most titled club in the 20th century?
+Zamalak SC
+-1
+-1
+Al Ahly
+-1
+-1
+Is this a Saudi club?
+Al Hilal
+-1
+-1
+Wydad
+-1
+-1
+Has this club ever won the Copa Libertadores?
+Is this a Brazilian club?
+Palmeiras 
+-1
+-1
+Boca Juniors
+-1
+-1
+Is this an African club?
+Mamelodi Sundowns
+-1
+-1
+Inter Miami
+-1
+-1

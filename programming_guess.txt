@@ -1,0 +1,59 @@
+Is your programming language is OOP language?
+Is it used in Mobile app development?
+Is it used in Android Applications?
+Is it a new language?
+Kotlin
+-1
+-1
+Java
+-1
+-1
+Swift
+-1
+-1
+Is it used in front-end development?
+JavaScript
+-1
+-1
+Is it used in Back-End development?
+Is it used in ML?
+Python
+-1
+-1
+ PHP
+-1
+-1
+Is it used in desktop application development?
+C++
+-1
+-1
+C#
+-1
+-1
+is it a low level language?
+Is it used in embedded systems?
+C
+-1
+-1
+Is it a data-oriented language?
+Is it used for statistical computing?
+R
+-1
+-1
+MATLAB
+-1
+-1
+Is it a database language?
+SQL
+-1
+-1
+Is it a markup language?
+HTML
+-1
+-1
+CSS
+-1
+-1
+Assembly
+-1
+-1

@@ -1,0 +1,63 @@
+Does the country have coasts on the Atlantic Ocean?
+Is this country in the Americas?
+Is this country in North America?
+Is it known for spicy food?
+Mexico
+-1
+-1
+USA
+-1
+-1
+Is it known for coffee beans?
+Brazil
+-1
+-1
+Argentina
+-1
+-1
+Does this country have coasts on the Mediterranean?
+Is it Islamic country?
+Morocco
+-1
+-1
+Spain
+-1
+-1
+Has this country recently left the European Union?
+England
+-1
+-1
+Germany
+-1
+-1
+Is this country in Asia?
+Is this an Arab country?
+Is it known for Al-AQSA Mosque?
+Palestine
+-1
+-1
+Saudi Arabia
+-1
+-1
+Is it known for samurai?
+Japan
+-1
+-1
+China
+-1
+-1
+Is this country in Europe?
+Is this country famous for Pasta?
+Italy
+-1
+-1
+Russia
+-1
+-1
+Is this country famous for pyramids?
+Egypt
+-1
+-1
+Australia
+-1
+-1

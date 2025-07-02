@@ -1,0 +1,14 @@
+# ninja log v6
+137	236	7573074061813008	scratch.exe	3b5803a22545e1d7
+50	720	7574271262265666	build.ninja	a53ee438a99f8f5f
+38	157	7572914583648505	CMakeFiles/scratch.dir/game.c.obj	259663b6779220c1
+36	136	7573031119542662	CMakeFiles/scratch.dir/mode_and_construction.c.obj	31986a304e5f8608
+26	120	7573065491335010	CMakeFiles/scratch.dir/play_game.c.obj	e9b9c01160ab1376
+28	136	7573074060721127	CMakeFiles/scratch.dir/extra.c.obj	35a15622908e2b0
+48	215	7574276800898267	CMakeFiles/scratch.dir/game.c.obj	3a7a444a0dac45f
+63	262	7574276801047848	CMakeFiles/scratch.dir/mode_and_construction.c.obj	53cff0305ee58904
+56	263	7574276800983769	CMakeFiles/scratch.dir/play_game.c.obj	f906ceff9ae499ef
+73	286	7574276801133409	CMakeFiles/scratch.dir/extra.c.obj	aa2b50e17dd9a2a
+286	534	7574276803285163	scratch.exe	3b5803a22545e1d7
+41	251	7574290181375543	CMakeFiles/scratch.dir/play_game.c.obj	f906ceff9ae499ef
+252	452	7574290183488168	scratch.exe	3b5803a22545e1d7

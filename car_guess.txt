@@ -1,0 +1,68 @@
+is it a sports car ?
+does this car from the high class?
+is it an Italian car?
+does it start with letter F ?
+Ferrari la ferrari
+-1
+-1
+Pagani
+-1
+-1
+Is it a German car?
+Porsche
+-1
+-1
+Ford
+-1
+-1
+does this car used in racings?
+Is it manufactured in Japan?
+Supraaa
+-1
+-1
+Nissan gtr
+-1
+-1
+does this car is made in USA?
+Ford
+-1
+-1
+BMW
+-1
+-1
+Is it a luxury car?
+Is it british ?
+does it start with R?
+rolls royce
+-1
+-1
+bentley
+-1
+-1
+does it start with A?
+Aston martin
+-1
+-1
+Land rover
+-1
+-1
+Is it made in italy?
+does it start with m?
+mazarati
+-1
+-1
+Ferrari roma
+-1
+-1
+is this car is from Mercedes branch?
+Maybach
+-1
+-1
+oudi
+-1
+-1
+
+
+
+
+

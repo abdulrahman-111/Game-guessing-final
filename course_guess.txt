@@ -1,0 +1,75 @@
+Is this Year 1?
+Is it a programming?
+Is it taken in semester 1?
+Introduction to computer programming
+-1
+-1
+MATLAB
+-1
+-1
+Is it a Math?
+Is it taken in semester 1?
+Analytic geometry and calculus |
+-1
+-1
+Analytic geometry and calculus ||
+-1
+-1
+Is it a Physics?
+Is it taken in semester 1?
+Modern mechanics
+-1
+-1
+Electric & magnetic interactions
+-1
+-1
+Is it an English?
+Is it taken in semester 1?
+Business English
+-1
+-1
+Communication English
+-1
+-1
+is it semester 1?
+Innovation1
+-1
+-1
+IS it related to Atoms?
+Chemisrty
+-1
+-1
+Innovation2
+-1
+-1
+Is it a programming?
+Is it taken in semester 1?
+Advanced Programming
+-1
+-1
+Data Structures
+-1
+-1
+Is it a Math?
+Is it taken in semester 1?
+Ordinary Differential equations
+-1
+-1
+Is it Algebra?
+Linear Algebra
+-1
+-1
+Discrete Mathematics
+-1
+-1
+Is it a Physics?
+Is it taken in semester 1?
+Fundamentals |
+-1
+-1
+Fundamentals ||
+-1
+-1
+Digital System Design
+-1
+-1
