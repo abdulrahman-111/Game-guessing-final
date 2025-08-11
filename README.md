@@ -2,7 +2,6 @@
 
 [![Language](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Library](https://img.shields.io/badge/graphics-Raylib%20%26%20RayGUI-orange.svg)](https://www.raylib.com/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Contributors](https://img.shields.io/badge/contributors-6-brightgreen.svg)](#-team)
 
 An **interactive, self-learning guessing game** built in C with a GUI powered by **Raylib** and **RayGUI**. The game challenges players to think of an item (course, club, car, etc.), then narrows down guesses through yes/no questions. If the game guesses wrong, it learns from the player by adding new questions — becoming smarter over time.
@@ -66,8 +65,6 @@ An **interactive, self-learning guessing game** built in C with a GUI powered by
 4. If the game guesses wrong, teach it a new question and answer.  
 5. In multiplayer, points are awarded when the game fails to guess correctly.  
 
-## 📸 Screenshots
-*(Add GUI screenshots here)*
 
 ## 👥 Team
 - **Abdulrahman Gomaa** – Overall supervision, testing, gameplay, video editing  
